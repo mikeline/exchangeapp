@@ -1,0 +1,25 @@
+.exchange-table {
+    text-align: center;
+    padding-top: 50px;
+}
+#react {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.exchange-table h3 {
+    padding-bottom: 20px;
+}
+
+#react table {
+    maring: 0 auto;
+}
+
+input {
+    background-color: transparent;
+    border: 0;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+}
